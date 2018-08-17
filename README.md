@@ -1,1 +1,3 @@
-Exemplo laravel
+## Exemplo laravel
+
+Objetivo: criação de um simples fluxo.
